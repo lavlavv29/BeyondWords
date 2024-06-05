@@ -1,6 +1,6 @@
 # beyond_words
 
-BeyondWords is a mobile application-based project done with Flutter. The main function is to do ASL recognition by detecting hand movements in users.
+BeyondWords is an innovative mobile application-based project done with Flutter that enables users to communicate with ASL (American Sign Language) more efficiently. That being said, its main function is to do ASL recognition by detecting hand movements in users. With gesture detection technology, the app can identify users' hand and finger gestures with high accuracy, translate them into text, and provide the right meaning according to the context.
 
 ## Getting Started
 
