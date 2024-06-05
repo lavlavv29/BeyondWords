@@ -1,6 +1,6 @@
 # beyond_words
 
-A new Flutter project.
+BeyondWords is a mobile application-based project done with Flutter. The main function is to do ASL recognition by detecting hand movements in users.
 
 ## Getting Started
 
